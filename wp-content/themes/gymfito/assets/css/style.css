@@ -2526,7 +2526,7 @@ select.form-select option {
   line-height: 100%;
   color: #ffffff;
   gap: 10px;
-  background: linear-gradient(to left, #8a2f08 50%, rgba(246, 122, 69, 0.9) 50%) right;
+  background: linear-gradient(to left, #f67a45 50%, rgba(246, 122, 69, 0.9) 50%) right;
   background-size: 200%;
   background-position: right;
 }
